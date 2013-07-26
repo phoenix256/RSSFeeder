@@ -1,4 +1,4 @@
 RSSFeeder
 =========
 
-RSS Feeder with Push to Update and last item load features
+RSS Feeder with Pull to refresh and last item load features
